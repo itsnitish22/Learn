@@ -1,1 +1,2 @@
 Hello, I am first file of git learn
+I am persuing BE CSE
